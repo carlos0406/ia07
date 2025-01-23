@@ -7,7 +7,7 @@ Este projeto implementar um simples resumo gerado pelo ollama baseado em um text
 - Ollama instalado e em execução localmente
 - Modelo LLaMA llama3.2:1b baixado no Ollama
 - Whisper(o modelo pode ser baixado durante a execução do código caso não tenha instalado ainda)
-
+- FFMPEG
 ## Instalação
 
 1. Clone o repositório:
